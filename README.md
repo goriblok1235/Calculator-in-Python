@@ -15,3 +15,5 @@ Through this calculator we can perform simple Arithmetic Operations like:
 # Prerequisites
 This code will run only on Python3.X
 You need to have Python3.X on your PC, you can [Download here](https://www.python.org/downloads/)
+ # Contributor
+  #### @goriblok1235
