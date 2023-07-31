@@ -12,6 +12,10 @@ Through this calculator we can perform simple Arithmetic Operations like:
 2. Subtraction(-)
 3. Multiplication(*)
 4. Division(/)
+5. Modulo(%)
+
+# Youtube Video Link : https://youtu.be/vcVB5fjPeJQ
+
 # Prerequisites
 This code will run only on Python3.X
 You need to have Python3.X on your PC, you can [Download here](https://www.python.org/downloads/)
